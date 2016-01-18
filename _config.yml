@@ -1,0 +1,29 @@
+name: PWDRWear
+favicon: null
+layout_spectrum: 0.20254008588381112
+typography_spectrum: 0.9188576859887689
+title: PWDR Wear
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2712224004790187
+  lightness: 0.07135276962071657
+  saturation: 0.8559586401097476
+  rhythmicContrast: 0.9227149169892073
+purpose: []
